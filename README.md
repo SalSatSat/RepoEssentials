@@ -13,7 +13,7 @@ This repo contains the codebase for the ??? project
 
 ### Team
 
-* Name: email
+* Muhammad Salihin Bin Zaol-kefli: salsatsat@gmail.com
 
 ### License
 
