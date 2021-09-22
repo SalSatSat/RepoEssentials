@@ -1,14 +1,14 @@
-# <Project Name>
-This repo contains the codebase for the <Project Name> project
+# \<Project Name\>
+This repo contains the codebase for the \<Project Name\> project
 
 ### Requisites
 
-* [Unity](www.unity3d.com) <version>
+* [Unity](www.unity3d.com) \<version\>
 
 ### Run
 
 * Open project in Unity
-* Open the <Scene Name> scene
+* Open the \<Scene Name\> scene
 * Press the Play button
 
 ### Team
